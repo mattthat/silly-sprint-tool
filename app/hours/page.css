@@ -1,0 +1,23 @@
+.hour-helper-container {
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 30px;
+    width: 400px !important;
+}
+
+.black-14 {
+    color: black;
+    font-size: 14px;
+}
+
+.margin-left-50 {
+    margin-left: 50px !important;
+}
+
+.margin-left-60 {
+    margin-left: 60px !important;
+}
+
+.padding-20 {
+    padding: 20px !important;
+}
